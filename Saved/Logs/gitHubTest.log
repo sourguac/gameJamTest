@@ -655,3 +655,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.07-09.21.38:935][  0]LogSlate: Took 0.016934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.06.07-09.21.39:002][  1]LogAssetRegistry: Asset discovery search completed in 55.0861 seconds
 [2020.06.07-09.21.39:013][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2020.06.07-09.24.31:904][834]LogActorFactory: Actor Factory created Cylinder
+[2020.06.07-09.24.32:862][878]LogActorFactory: Actor Factory created Cylinder
+[2020.06.07-09.24.33:717][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.07-09.24.37:285][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.06.07-09.24.37:508][ 89]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.06.07-09.24.55:571][142]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-09.24.55:637][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.06.07-09.24.55:771][142]LogSavePackage: Moving '../../../../Projects/gameJamTest/Saved/Minimal_DefaultEC3BDA764B1B72F616CFA290D4DA4968.tmp' to '../../../../Projects/gameJamTest/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.06.07-09.24.55:819][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../Projects/gameJamTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2020.06.07-09.24.55:897][142]LogSavePackage: Moving '../../../../Projects/gameJamTest/Saved/Minimal_Default_BuiltData14C7B3134D8C2C35F0E7DA93A985D68E.tmp' to '../../../../Projects/gameJamTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.06.07-09.24.55:914][142]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.07-09.24.55:914][142]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.06.07-09.24.55:914][142]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
