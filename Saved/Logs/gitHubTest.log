@@ -674,3 +674,644 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.07-09.23.49:377][972]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.07-09.23.49:377][972]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.06.07-09.23.49:377][972]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.06.07-09.25.13:861][535]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.07-09.32.51:859][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PassionAndFire" FILE="../../../../../UnrealProjects/gameJamTest/Content/PassionAndFire.uasset" SILENT=true
+[2020.06.07-09.32.51:873][275]LogSavePackage: Moving '../../../../../UnrealProjects/gameJamTest/Saved/PassionAndFire03A0A06D46D6D585FC9A4D97518F8809.tmp' to '../../../../../UnrealProjects/gameJamTest/Content/PassionAndFire.uasset'
+[2020.06.07-09.32.52:031][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.06.07-09.32.52:054][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.06.07-09.32.52:065][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.06.07-09.32.52:091][275]AssetCheck: New page: Asset Save: PassionAndFire
+[2020.06.07-09.32.52:091][275]LogContentValidation: Display: Validating Material /Game/PassionAndFire.PassionAndFire
+[2020.06.07-09.32.56:758][755]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/PassionAndFire.PassionAndFire
+[2020.06.07-09.32.56:804][755]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.32.57:923][755]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.32.57:939][755]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.06.07-09.32.57:939][755]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.06.07-09.32.57:939][755]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.06.07-09.32.58:025][755]LogSlate: Took 0.038561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.07-09.33.05:319][200]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.06.07-09.33.06:161][253]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.06.07-09.33.06:976][310]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.06.07-09.33.08:480][415]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.06.07-09.33.08:622][426]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.06.07-09.33.08:784][440]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.06.07-09.33.32:839][698]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.06.07-09.33.32:840][698]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.06.07-09.33.32:840][698]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.06.07-09.33.32:840][698]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.07-09.33.33:170][698]LogSlate: Took 0.319332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.06.07-09.33.51:091][213]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.33.51:213][214]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.06.07-09.33.51:213][214]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.06.07-09.33.51:213][214]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.06.07-09.33.51:220][214]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.06.07-09.33.52:937][327]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.33.53:946][394]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.06.07-09.33.54:070][402]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.06.07-09.33.54:738][451]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.33.54:777][451]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.33.54:809][452]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.06.07-09.33.56:027][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.06.07-09.33.56:617][582]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.06.07-09.33.57:907][670]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.06.07-09.33.58:976][744]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.06.07-09.33.59:386][769]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.06.07-09.34.00:098][825]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.00:110][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.00:537][848]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.06.07-09.34.00:751][863]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.06.07-09.34.01:576][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.06.07-09.34.02:374][983]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.07-09.34.03:407][ 46]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.06.07-09.34.03:690][ 63]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.06.07-09.34.04:293][108]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.06.07-09.34.05:038][166]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.05:053][166]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.05:762][212]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.05:775][212]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.06:151][232]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.06.07-09.34.06:646][263]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.06.07-09.34.06:646][263]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.06.07-09.34.06:646][263]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.06:661][263]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.06:667][263]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.07-09.34.09:012][412]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.06.07-09.34.09:639][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.06.07-09.34.09:640][458]LogMaterialEditor: Applying material PassionAndFire
+[2020.06.07-09.34.10:297][458]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.06.07-09.34.10:309][458]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.10:359][458]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.10:441][458]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.06.07-09.34.10:442][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.06.07-09.34.10:445][458]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.06.07-09.34.10:499][458]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.07-09.34.11:061][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.06.07-09.34.11:061][458]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.06.07-09.34.11:061][458]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.06.07-09.34.11:061][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.06.07-09.34.11:622][458]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.06.07-09.34.11:622][458]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.06.07-09.34.12:183][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.06.07-09.34.12:183][458]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.06.07-09.34.12:183][458]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.06.07-09.34.12:742][458]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.06.07-09.34.12:742][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.06.07-09.34.12:742][458]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.06.07-09.34.12:742][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.06.07-09.34.13:027][458]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.06.07-09.34.13:027][458]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.06.07-09.34.13:027][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.06.07-09.34.13:088][458]TextureStreamingBuild: Display: Compiling optional shaders took 2.631 seconds.
+[2020.06.07-09.34.13:096][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.06.07-09.34.16:589][687]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.16:601][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.18:168][802]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.18:180][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.19:437][882]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.19:450][882]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.19:455][882]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.07-09.34.19:768][903]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.06.07-09.34.23:008][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.06.07-09.34.26:128][302]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.26:143][302]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.27:677][402]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.34.27:692][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.34.27:698][402]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.07-09.34.28:538][454]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.06.07-09.34.29:444][534]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.06.07-09.34.35:973][993]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.06.07-09.34.38:726][186]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.06.07-09.34.38:983][205]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.06.07-09.34.39:859][263]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.06.07-09.34.42:856][440]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.06.07-09.34.43:187][452]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.06.07-09.34.43:323][455]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.06.07-09.34.43:866][465]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.06.07-09.34.44:008][468]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.06.07-09.34.44:035][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.06.07-09.34.44:104][470]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.06.07-09.34.44:104][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.06.07-09.34.44:104][470]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.06.07-09.34.44:104][470]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.07-09.34.44:489][479]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.06.07-09.34.44:837][487]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.06.07-09.34.44:837][487]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.06.07-09.34.45:050][491]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.06.07-09.35.04:106][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.06.07-09.35.04:280][558]LogSavePackage: Moving '../../../../../UnrealProjects/gameJamTest/Saved/Minimal_Default_Auto104454EF344F33D067FECD2A40424F8EA.tmp' to '../../../../../UnrealProjects/gameJamTest/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.06.07-09.35.04:283][558]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.186
+[2020.06.07-09.35.04:283][558]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2020.06.07-09.35.04:284][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PassionAndFire] ([1] browsable assets)...
+[2020.06.07-09.35.04:314][558]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PassionAndFire.PassionAndFire]
+[2020.06.07-09.35.04:314][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/PassionAndFire]
+[2020.06.07-09.35.04:315][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PassionAndFire" FILE="../../../../../UnrealProjects/gameJamTest/Saved/Autosaves/Game/PassionAndFire_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.07-09.35.04:336][558]LogSavePackage: Moving '../../../../../UnrealProjects/gameJamTest/Saved/PassionAndFire_Auto1D640CDF647B28DCB8D3150A83EFDAD51.tmp' to '../../../../../UnrealProjects/gameJamTest/Saved/Autosaves/Game/PassionAndFire_Auto1.uasset'
+[2020.06.07-09.35.04:337][558]LogFileHelpers: Auto-saving content packages took 0.053
+[2020.06.07-09.39.38:365][477]LogMaterialEditor: Applying material PassionAndFire
+[2020.06.07-09.39.38:972][477]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.39.39:018][477]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.06.07-09.39.39:018][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.06.07-09.39.39:018][477]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.06.07-09.39.39:030][477]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.39.39:081][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.06.07-09.39.39:088][477]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.07-09.39.40:212][477]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.06.07-09.39.40:212][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.06.07-09.39.41:333][477]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.06.07-09.39.41:333][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.06.07-09.39.41:333][477]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.06.07-09.39.41:893][477]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.06.07-09.39.41:893][477]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.06.07-09.39.42:489][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.06.07-09.39.42:489][477]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.06.07-09.39.42:489][477]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.06.07-09.39.42:544][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.06.07-09.39.42:548][477]TextureStreamingBuild: Display: Compiling optional shaders took 3.465 seconds.
+[2020.06.07-09.39.44:817][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.06.07-09.39.44:817][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.06.07-09.39.44:817][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.06.07-09.39.48:703][743]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.39.48:716][743]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.06.07-09.39.48:716][743]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.06.07-09.39.48:716][743]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.06.07-09.39.48:718][743]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.39.50:293][854]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.06.07-09.39.50:526][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.06.07-09.39.50:757][894]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.06.07-09.39.50:847][901]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.39.50:864][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.39.51:609][948]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.39.51:621][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.07-09.39.51:628][948]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.07-09.39.52:142][978]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.06.07-09.39.52:599][  6]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.06.07-09.39.53:016][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.06.07-09.39.53:017][ 34]LogMaterialEditor: Applying material PassionAndFire
+[2020.06.07-09.39.53:686][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.06.07-09.39.53:711][ 34]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.39.53:761][ 34]LogMaterial: Display: Missing cached shader map for material PassionAndFire, compiling. 
+[2020.06.07-09.39.53:794][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.06.07-09.39.53:800][ 34]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.07-09.39.54:363][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.06.07-09.39.54:363][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.06.07-09.39.54:363][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.06.07-09.39.54:363][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.06.07-09.39.54:363][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.06.07-09.39.54:918][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.06.07-09.39.54:918][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.06.07-09.39.55:478][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.06.07-09.39.55:478][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.06.07-09.39.55:478][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.06.07-09.39.56:037][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.06.07-09.39.56:037][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.06.07-09.39.56:037][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.06.07-09.39.56:575][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.06.07-09.39.56:575][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.06.07-09.39.56:575][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.06.07-09.39.56:575][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.06.07-09.39.56:575][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.06.07-09.39.56:578][ 34]TextureStreamingBuild: Display: Compiling optional shaders took 2.782 seconds.
+[2020.06.07-09.39.57:483][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.06.07-09.39.57:499][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.06.07-09.40.00:243][225]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.06.07-09.40.03:151][489]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.06.07-09.40.03:151][489]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.06.07-09.40.03:151][489]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.06.07-09.40.03:151][489]MaterialEditorStats: Texture samplers: 3/16
+[2020.06.07-09.40.06:035][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.06.07-09.40.06:158][775]LogSavePackage: Moving '../../../../../UnrealProjects/gameJamTest/Saved/Minimal_DefaultF314138A4DABF64B8C4A778573F66672.tmp' to '../../../../../UnrealProjects/gameJamTest/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.06.07-09.40.06:185][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../UnrealProjects/gameJamTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2020.06.07-09.40.06:522][775]LogSavePackage: Moving '../../../../../UnrealProjects/gameJamTest/Saved/Minimal_Default_BuiltDataFD9CD6554278C5CBCED578ABA7C919A1.tmp' to '../../../../../UnrealProjects/gameJamTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.06.07-09.40.06:535][775]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.07-09.40.06:535][775]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.06.07-09.40.06:535][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.06.07-09.40.09:323][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.06.07-09.40.11:386][ 86]LogSlate: Window 'Save Content' being destroyed
+[2020.06.07-09.40.11:420][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PassionAndFire" FILE="../../../../../UnrealProjects/gameJamTest/Content/PassionAndFire.uasset" SILENT=true
+[2020.06.07-09.40.11:682][ 86]LogSavePackage: Moving '../../../../../UnrealProjects/gameJamTest/Saved/PassionAndFire0E04981D47D1F7665D6C4E92806E505A.tmp' to '../../../../../UnrealProjects/gameJamTest/Content/PassionAndFire.uasset'
+[2020.06.07-09.40.11:706][ 86]LogSlate: Window 'PassionAndFire' being destroyed
+[2020.06.07-09.40.11:764][ 86]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-09.40.11:764][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-09.40.11:871][ 86]LogSlate: Window 'gitHubTest - Unreal Editor' being destroyed
+[2020.06.07-09.40.11:894][ 86]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.07-09.40.12:120][ 86]AssetCheck: New page: Asset Save: PassionAndFire
+[2020.06.07-09.40.12:120][ 86]LogContentValidation: Display: Validating Material /Game/PassionAndFire.PassionAndFire
+[2020.06.07-09.40.12:124][ 87]Cmd: QUIT_EDITOR
+[2020.06.07-09.40.12:124][ 87]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.06.07-09.40.12:136][ 87]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.06.07-09.40.12:491][ 87]LogExit: Preparing to exit.
+[2020.06.07-09.40.12:904][ 87]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-09.40.12:904][ 87]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-09.40.12:904][ 87]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-09.40.13:002][ 87]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.07-09.40.13:050][ 87]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-09.40.13:050][ 87]LogExit: Editor shut down
+[2020.06.07-09.40.13:050][ 87]LogExit: Transaction tracking system shut down
+[2020.06.07-09.40.13:782][ 87]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000021735CE5F80), frame # 25087
+[2020.06.07-09.40.13:782][ 87]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021735B611C0), frame # 25087
+[2020.06.07-09.40.13:783][ 87]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021735BA5C00), frame # 25087
+[2020.06.07-09.40.13:803][ 87]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217280BCE00), frame # 25087
+[2020.06.07-09.40.13:803][ 87]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021727F33B00), frame # 25087
+[2020.06.07-09.40.13:830][ 87]LogExit: Object subsystem successfully closed.
+[2020.06.07-09.40.13:904][ 87]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.07-09.40.14:034][ 87]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (792)
+[2020.06.07-09.40.14:034][ 87]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (790)
+[2020.06.07-09.40.14:034][ 87]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.06.07-09.40.14:034][ 87]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.06.07-09.40.14:035][ 87]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.06.07-09.40.14:036][ 87]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.06.07-09.40.14:036][ 87]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.06.07-09.40.14:036][ 87]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.06.07-09.40.14:036][ 87]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.06.07-09.40.14:036][ 87]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.06.07-09.40.14:036][ 87]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.06.07-09.40.14:046][ 87]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.06.07-09.40.14:047][ 87]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.06.07-09.40.14:650][ 87]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.06.07-09.40.14:651][ 87]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.06.07-09.40.14:651][ 87]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.06.07-09.40.14:651][ 87]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.06.07-09.40.14:651][ 87]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.06.07-09.40.14:651][ 87]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.06.07-09.40.14:651][ 87]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.06.07-09.40.14:684][ 87]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.06.07-09.40.14:685][ 87]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.06.07-09.40.14:723][ 87]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.06.07-09.40.14:723][ 87]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.06.07-09.40.14:723][ 87]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.06.07-09.40.14:723][ 87]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.06.07-09.40.14:891][ 87]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.06.07-09.40.14:892][ 87]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.06.07-09.40.14:893][ 87]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.06.07-09.40.14:915][ 87]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.06.07-09.40.14:924][ 87]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.06.07-09.40.14:924][ 87]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.06.07-09.40.14:924][ 87]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.06.07-09.40.14:924][ 87]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.06.07-09.40.14:924][ 87]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.06.07-09.40.14:924][ 87]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.06.07-09.40.14:924][ 87]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.06.07-09.40.14:925][ 87]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.06.07-09.40.15:026][ 87]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.06.07-09.40.15:127][ 87]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.06.07-09.40.15:127][ 87]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.06.07-09.40.15:127][ 87]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.06.07-09.40.15:157][ 87]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.06.07-09.40.15:158][ 87]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.06.07-09.40.15:158][ 87]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.06.07-09.40.15:158][ 87]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.06.07-09.40.15:158][ 87]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.06.07-09.40.15:159][ 87]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.06.07-09.40.15:159][ 87]LogModuleManager: Shutting down and abandoning module ContentBrowser (289)
+[2020.06.07-09.40.15:160][ 87]LogModuleManager: Shutting down and abandoning module TreeMap (287)
+[2020.06.07-09.40.15:160][ 87]LogModuleManager: Shutting down and abandoning module AnimationSharing (284)
+[2020.06.07-09.40.15:160][ 87]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (282)
+[2020.06.07-09.40.15:160][ 87]LogModuleManager: Shutting down and abandoning module Paper2D (280)
+[2020.06.07-09.40.15:160][ 87]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (278)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (276)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (274)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module PacketHandler (272)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (270)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (268)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module MediaAssets (266)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module Overlay (264)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module OverlayEditor (263)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module VREditor (260)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module StringTableEditor (258)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (256)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (254)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module FunctionalTesting (252)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (250)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (249)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module UMG (246)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module UMGEditor (245)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module MessageLog (243)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module MaterialEditor (241)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.06.07-09.40.15:161][ 87]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.06.07-09.40.15:162][ 87]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.06.07-09.40.15:162][ 87]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.06.07-09.40.15:186][ 87]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.06.07-09.40.15:186][ 87]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.06.07-09.40.15:186][ 87]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.06.07-09.40.15:186][ 87]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.06.07-09.40.15:186][ 87]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.06.07-09.40.15:186][ 87]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.06.07-09.40.15:187][ 87]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.06.07-09.40.15:188][ 87]LogXGEController: Cleaning working directory: C:/Users/Funky/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.06.07-09.40.15:188][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.06.07-09.40.15:189][ 87]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.06.07-09.40.15:200][ 87]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.06.07-09.40.15:200][ 87]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.06.07-09.40.15:200][ 87]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.06.07-09.40.15:200][ 87]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.06.07-09.40.15:200][ 87]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.06.07-09.40.15:200][ 87]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.06.07-09.40.15:200][ 87]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.06.07-09.40.15:201][ 87]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.06.07-09.40.15:202][ 87]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.06.07-09.40.15:203][ 87]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.06.07-09.40.15:206][ 87]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.06.07-09.40.15:206][ 87]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.06.07-09.40.15:206][ 87]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.06.07-09.40.15:206][ 87]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.06.07-09.40.15:207][ 87]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.06.07-09.40.15:207][ 87]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.06.07-09.40.15:209][ 87]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.06.07-09.40.15:209][ 87]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.06.07-09.40.15:223][ 87]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.06.07-09.40.15:223][ 87]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.07-09.40.15:223][ 87]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF5FA82-414D-A27E-CA91-AEA6149019A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=028d78104a6563898bb452ab014841ad%7C36be998c3c9f41369f65f663ccfbcea7%7Cd014974e-7120-4b09-a569-a3813fbc94f7&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.06.07-09.40.15:258][ 87]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.06.07-09.40.15:259][ 87]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.06.07-09.40.15:291][ 87]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.06.07-09.40.15:292][ 87]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.06.07-09.40.15:292][ 87]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.06.07-09.40.15:292][ 87]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.06.07-09.40.15:292][ 87]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.06.07-09.40.15:292][ 87]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.07-09.40.15:293][ 87]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.07-09.40.15:294][ 87]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.07-09.40.15:299][ 87]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.07-09.40.15:299][ 87]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.07-09.40.15:299][ 87]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.07-09.40.15:299][ 87]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.07-09.40.15:299][ 87]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.07-09.40.15:299][ 87]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.07-09.40.15:300][ 87]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.07-09.40.15:300][ 87]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.07-09.40.15:301][ 87]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.07-09.40.15:301][ 87]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.07-09.40.15:301][ 87]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.07-09.40.15:301][ 87]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.06.07-09.40.15:302][ 87]LogD3D11RHI: Shutdown
+[2020.06.07-09.40.15:302][ 87]LogD3D11RHI: CleanupD3DDevice
+[2020.06.07-09.40.15:310][ 87]LogExit: Exiting.
+[2020.06.07-09.40.15:347][ 87]Log file closed, 06/07/20 10:40:15
